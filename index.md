@@ -3,3 +3,4 @@
 ###### this is the smallest header option available 
 
 this is just me testing the markdown function under github
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
